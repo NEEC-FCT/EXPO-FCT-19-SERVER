@@ -269,7 +269,7 @@ Main Components
   opacity: 0;
 }
 
-.cd-schedule .event-name,
+.cd-schedule .event-name, .event-name2,
 .cd-schedule .event-date {
   display: block;
   color: white;
@@ -280,6 +280,11 @@ Main Components
 
 .cd-schedule .event-name {
   font-size: 2.4rem;
+}
+
+.event-name2 {
+
+  font-size: 2.1rem;  
 }
 
 @media only screen and (min-width: 800px) {
